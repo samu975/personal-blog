@@ -207,3 +207,27 @@ footer div{
 .blogpost-main-container section h1{
     font-size: 35px;
 }
+.contact-main-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr ;
+    width: 100%;
+    background-color: #A7ACAA;
+    height: 160px;
+    justify-content: center;
+    align-items: center;
+}
+.contact-main-container img{
+    width: 90px;
+    float: left;
+    margin-right:10px ;
+}
+
+.contact-main-container .contact-left{
+    padding: 25px 50px 40px;
+}
+.contact-right{
+    padding: 25px 50px 40px;
+}
+.contact-main-container a{
+    text-decoration: underline;
+}
