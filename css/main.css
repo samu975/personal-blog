@@ -231,3 +231,16 @@ footer div{
 .contact-main-container a{
     text-decoration: underline;
 }
+
+.profile-main-container {
+    padding: 70px 40px;
+    background-color: #e6e9ed;
+    margin-bottom: 50px;
+    margin-top: 15px;
+}
+.profile-main-container img{
+    height: 200px;
+    width: 240px;
+    margin-right: 30px;
+}
+
